@@ -82,7 +82,11 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-
+When we provide 0 resistance then the bulb got damaged, when resistance is 1/2 kilo ohm then the LED light is glowing and when the
+resistance is 5 kilo ohm the light glow very dim.
+As resistance and current is indirectly propotional from this we observed that when the resistance of resistor is low then LED gets damaged since
+current flowing is high, when resistance is medium the LED glows since current flowing is also medium and when resistance is high LED glows dim
+since current flowing is low. 
 
 ```
 
